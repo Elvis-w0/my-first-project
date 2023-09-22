@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--body-font);
+    background-color: var(--body-color);
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+    overflow-x: hidden;
+    background-image: url();
+    background-attachment: fixed;
+}
+h2{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h5{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 8px;
+}
+
+p{
+    font-size: 20px;
+    
+}
+.card-body p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-body h5{
+    text-align: center;
+}
+
+
+
+hr{
+    color: crimson;
+    background-color: rgb(92, 13, 13);
+    position: absolute;
+    z-index: 1000;
+}
+.card-body img{
+    padding-bottom: 20px;
+    height: 25%;
+    width: 80%;
+    
+}
+
+.section-3 {
+    position: relative;
+    padding: 70px 30px 65px;
+    padding-top: 20px;
+    /* margin-top: -110px; */
+    transform: translateZ(10px);
+    margin-bottom: 25px;
+  }
+
+
+nav{
+    border-bottom: 1px solid crimson;
+}
+
+.mine-group{
+background-color: #fff;
+border: 1px solid #EF5350;
+text-align: center;
+margin-bottom: 20px;
+border-radius: 20px;
+padding: 35px 18px 27px; 
+}
+
+.mine-group .card-items img{
+    width: 100%;
+}
+
+.row .mine-group{
+    gap: 100%;
+}
+
+.card-img img{
+    width: 35%;
+}
+
+.card-body{
+    padding: 12px;
+    
+}
+
+.card .main{
+    background-color: var(--bs-white);
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 40px 20px 33px;
+    height: 20%;
+}
+.card-body img{
+    width: 35%;
+}
+
+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
